@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "========================="
+echo "      Here's a Joke!     "
+echo "========================="
+echo ""
+echo "       Why do programmers  "
+echo "       prefer dark mode?   "
+echo "         _..._             "
+echo "       .'     '.           "
+echo "      |  0  0  |          "
+echo "      |   ___  |          "
+echo "       '._____.'           "
+echo "        '._._.'            "
+echo ""
+echo "     Because light attracts bugs!"
+echo ""
+echo "========================="
